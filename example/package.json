@@ -9,7 +9,7 @@
     "compiler": "i18_compiler"
   },
   "i18_compiler": {
-    "input": "./assets/sixfast.csv",
+    "input": "./assets/test.csv",
     "output": "./locale",
     "key": "KEY"
   },
