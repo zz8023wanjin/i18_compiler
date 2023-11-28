@@ -1,6 +1,6 @@
 {
   "name": "i18_compiler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "auto translate i18 csv file to js file",
   "main": "index.js",
   "files": [
