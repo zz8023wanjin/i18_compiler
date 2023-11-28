@@ -1,0 +1,27 @@
+{
+  "name": "i18_compiler",
+  "version": "0.0.1",
+  "description": "auto translate i18 csv file to js file",
+  "main": "index.js",
+  "files": [
+    "bin"
+  ],
+  "bin": {
+    "i18_compiler": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler",
+    "i18",
+    "csv"
+  ],
+  "author": "rain-star",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "iconv-lite": "^0.6.3"
+  }
+}

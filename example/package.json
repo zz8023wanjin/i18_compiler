@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compiler": "i18_compiler"
+  },
+  "i18_compiler": {
+    "input": "./assets/sixfast.csv",
+    "output": "./locale",
+    "key": "KEY"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
