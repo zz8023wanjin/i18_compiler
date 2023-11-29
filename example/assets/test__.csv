@@ -1,396 +1,429 @@
-NAMESPACE,KEY,zh-tw,en,zh-cn
-card,SignIn1,手機號登入,Phone-number Login,手机号登录
-card,SignIn2,用戶名/郵箱登入,Username/Email Login,用户名/邮箱登录
-card,SignIn3,請輸入手機號,Please enter phone number,请输入手机号
-card,SignIn4,請輸入密碼,Please enter password,请输入密码
-card,SignIn5,遇到問題？,Problem?,遇到问题？
-card,SignIn6,忘記密碼,Password forgotten,忘记密码
-card,SignIn7,立即登入,Log in now,立即登录
-card,SignIn8,立即支付,Pay in now,立即支付
-card,SignIn9,我已同意相關服務條款,I've agreed to the related service terms,我已同意相关服务条款
-card,SignIn10,沒有帳號，去註冊,Register New Account,没有账号，去注册
-card,SignIn11,請輸入用戶名/信箱,Enter Username/Email,请输入用户名/邮箱
-card,SignIn12,使用Sixfast app,Use Sixfast app,使用Sixfast app
-card,SignIn13,掃碼登入,Scan-code Login,扫码登录
-card,SignIn14,其他方式登入,Other login modes,其他方式登录
-card,SignIn15,手機號碼註冊,Phone-number Register,手机号注册
-card,SignIn16,信箱註冊,Register with e-mail,邮箱注册
-card,SignIn17,請輸入驗證碼,Enter VER Code,请输入验证码
-card,SignIn18,取得驗證碼,Get VER Code,获取验证码
-card,SignIn19,推薦碼(選填),Referral Code (optional),推荐码(选填)
-card,SignIn20,請輸入推薦碼,Please enter referral code,请输入推荐码
-card,SignIn21,已有帳號,Account owned,已有账号
-card,SignIn22,去登入,To Login,去登录
-card,SignIn23,修改密碼,Change password,修改密码
-card,SignIn24,確認修改,Confirm Change,确认修改
-card,SignIn25,立即綁定,Link now,立即绑定
-card,SignIn26,下一步,Next step,下一步
-card,SignIn27,換綁手機號,Change the linked phone number,换绑手机号
-card,SignIn28,綁定信箱,Link e-mail,绑定邮箱
-card,SignIn29,換綁信箱,Change the linked e-mail,换绑邮箱
-card,SignIn30,綁定手機號,Link phone number,绑定手机号
-card,SignIn31,使用者,User,用户
-card,SignIn32,SVIP已過期,SVIP expired,SVIP已过期
-card,SignIn33,SVIP剩餘1024天,SVIP expires in 1024 days,SVIP剩余1024天
-card,SignIn34,會員儲值,VIP Recharge,会员充值
-sign,SignIn35,去綁定,To Link,去绑定
-sign,SignIn36,Facebook,Facebook,Facebook
-sign,SignIn37,去修改,To Change,去修改
-sign,SignIn38,換綁,Change Link,换绑
-sign,SignIn39,解除綁定,Delink,解除绑定
-sign,SignIn40,去認證,To Verify,去认证
-sign,SignIn41,遊戲會員(SVIP),Game VIP (SVIP),游戏会员(SVIP)
-sign,SignIn42,支援影音+遊戲加速功能,Support video+game speedup,支持影音+游戏加速功能
-sign,SignIn43,影音會員(VIP),Video VIP (VIP),影音会员(VIP)
-sign,SignIn44,僅支援影音加速功能,Only support video speedup,仅支持影音加速功能
-sign,SignIn45,影音會員尊享7大特權,Video members enjoy 7 privileges,影音会员尊享7大特权
-sign,SignIn46,訪問/解鎖國內應用,Access/Unlock domestic apps,访问/解锁国内应用
-sign,SignIn47,影音、直播、金融、學習、辦公,"Video, livestream, finance, study, and work.",影音、直播、金融、学习、办公
-sign,SignIn48,支援PC、行動、Mac、電視,"Support PC, mobile device, Mac, and television.",支持PC、移动、Mac、电视
-sign,SignIn49,支援3台設備在線,Support 3-device login simultaneously,支持3台设备在线
-sign,SignIn50,全球節點 高速專線,Global nodes and exclusive lines,全球节点 高速专线
-sign,SignIn51,無限高速流量,Unlimited high-speed data flow,无限高速流量
-sign,SignIn52,支援7*12小時人工客服,Human customer service for 7 *12 hours,支持7*12小时人工客服
-sign,SignIn53,熱賣,Hot Sale,热销
-sign,SignIn54,推薦,Recommended,推荐
-sign,SignIn55,套餐詳情描述套餐詳情描述,Package Details,套餐详情描述套餐详情描述
-sign,SignIn56,暫無可用優惠券,No available coupons for now,暂无可用优惠券
-sign,SignIn57,卡券兌換,Card&Coupon Exchange,卡券兑换
-sign,SignIn58,支付寶支付,Via Alipay,支付宝支付
-sign,SignIn59,換綁信箱,Change the linked e-mail,换绑邮箱
-sign,SignIn60,Paypal支付,Via Paypal,Paypal支付
-sign,SignIn61,請使用支付寶掃碼支付,Please scan the code with Alipay to pay,请使用支付宝扫码支付
-sign,SignIn62,請使用微信掃碼支付,Please scan the code with WeChat to pay,请使用微信扫码支付
-sign,SignIn63,購買即視為閱讀並同意,"By purchasing it, you acknowledge and agree to ",购买即视为阅读并同意
-sign,SignIn64,自動續費協議,Auto-renewal Agreement,自动续费协议
-sign,SignIn65,會員服務協議,VIP Agreement,会员服务协议
-sign,SignIn66,立即購買,Purchase Now,立即购买
-sign,SignIn67,元,Yuan,元
-sign,SignIn68,已省,Save xxx,已省
-sign,SignIn69,是否有Sixfast帳號,Do you have a Sixfast account?,是否有Sixfast账号
-sign,SignIn70,退出將無法使用Sixfast，是否確認,"Close it and can't use the Sixfast service anymore, confirm?",退出将无法使用Sixfast，是否确认
-sign,SignIn71,繼續綁定,Continue to link,继续绑定
-user,SignIn72,登出登入,Log out,退出登录
-user,SignIn73,註冊Sixfast帳號,Register a Sixfast account,注册Sixfast账号
-user,SignIn74,用戶名不可輸入特殊字符,User Name can't include special characters.,用户名不可输入特殊字符
-user,SignIn75,用戶名不能為空,User Name can't be empty.,用户名不能为空
-user,SignIn76,用戶名長度限制6~20個字符,The user name's length is 6~20 characters.,用户名长度限制6~20个字符
-user,SignIn77,密碼不可輸入特殊字符,Password can't include special characters.,密码不可输入特殊字符
-user,SignIn78,密碼不能為空,Password can't be empty.,密码不能为空
-user,SignIn79,密碼長度限制6~18個字符,The password's length is 6~18 characters.,密码长度限制6~18个字符
-user,SignIn80,修改密碼成功，請重新登入,"Password changed, please log in again.",修改密码成功，请重新登录
-user,SignIn81,綁定成功,Successfully linked,绑定成功
-user,SignIn82,用戶名長度限制6~40個字符,The user name's length is 6~40 characters.,用户名长度限制6~40个字符
-user,SignIn83,綁定帳號,Link Account,绑定账号
-user,SignIn84,該帳號已綁定xxx帳號,This account has been linked to xxx Account.,该账号已绑定xxx账号
-user,SignIn85,請先登入帳號再進行換綁操作,Please log in to change the link.,请先登录账号再进行换绑操作
-user,SignIn86,請輸入正確的驗證碼,Please enter the correct verification code.,请输入正确的验证码
-user,SignIn87,重新發送,Resend,重新发送
-user,SignIn88,登入中,Logging in,登录中
-user,SignIn89,解除綁定成功,Successfully unlinked,解除绑定成功
-user,SignIn90,此帳號已綁定其他Sixfast帳號，請先解綁,This account has linked to a Sixfast account. Please unlink first.,此账号已绑定其他Sixfast账号，请先解绑
-user,SignIn91,暱稱最長不超過15個字元哦,The nickname length can't exceed 15 characters.,昵称最长不超过15个字符哦
-user,SignIn92,暱稱不能含敏感字彙或特殊字元哦,Nickname can't include sensitive words or special characters.,昵称不能含敏感词汇或特殊字符哦
-user,SignIn93,請先綁定手機或信箱,Please link the phone number or email.,请先绑定手机或邮箱
-user,SignIn94,實名認證,Real-name Authentication,实名认证
-user,SignIn95,已認證,Authenticated,已认证
-user,SignIn96,要解除與帳號xxx的綁定嗎,Remove the link to xxx Account?,要解除与账号xxx的绑定吗
-user,SignIn97,確定,Confirm,确定
-user,SignIn98,取消,Cancel,取消
-user,SignIn99,普通,Ordinary,普通
-user,SignIn100,圖片大小必須小於10MB,The picture size must be below 10MB.,图片大小必须小于10MB
-user,SignIn101,圖片解析度必須小於2560*2560,The picture resolution must be below 2560*2560.,图片分辨率必须小于2560*2560
-user,SignIn102,編輯頭像,Edit Avatar,编辑头像
-user,SignIn103,重新上傳,Reupload,重新上传
-user,SignIn104,註冊成功,Successfully registered,注册成功
-user,SignIn105,立即註冊,Register now,立即注册
-user,SignIn106,該用戶名已存在，請直接登入,"User Name registered, please log in directly.",该用户名已存在，请直接登录
-user,SignIn107,該郵箱帳號已存在，請直接登入,"Email account registered, please log in.",该邮箱账号已存在，请直接登录
-user,SignIn108,再次發送,Resend,再次发送
-user,SignIn109,驗證碼已發送，請查收,"Verification code sent, please check it out.",验证码已发送，请查收
-user,SignIn110,請輸入正確的手機號,Please enter the correct phone number.,请输入正确的手机号
-user,SignIn111,手機號碼不能為空,Phone number can't be empty.,手机号不能为空
-user,SignIn112,請輸入正確的信箱帳號,Please enter the correct email account.,请输入正确的邮箱账号
-user,SignIn113,哎呀~到底了,Uh～ You hit the bottom.,哎呀~到底了
-user,SignIn114,沒有更早的消息了,No earlier news,没有更早的消息了
-user,SignIn115,請聯絡客服,Please contact customer service.,请联系客服
-user,SignIn116,認證成功,Successfully authenticated,认证成功
-user,SignIn117,根據相關法律法規的規定，您需要透過實名認證後方可使用我們的部分服務,"In accordance with the related laws and regulations, you must finish the real-name authentication to use some of our services.",根据相关法律法规的规定，您需要通过实名认证后方可使用我们的部分服务
-user,SignIn118,真實姓名,Real Name,真实姓名
-user,SignIn119,姓名不能為空,Name can't be empty.,姓名不能为空
-user,SignIn120,姓名格式錯誤，請確認填寫的資料是否正確,"Name format error, please check the entered info.",姓名格式错误，请确认填写的信息是否正确
-user,SignIn121,請輸入您的真實姓名,Please enter your real name.,请输入您的真实姓名
-user,SignIn122,身分證號,ID Number,身份证号
-user,SignIn123,身分證號碼不能為空,ID Number can't be empty.,身份证号不能为空
-user,SignIn124,"身分證字號錯誤,請確認填寫的資料是否正確","Incorrect ID Number, please check the entered info.","身份证号错误,请确认填写的信息是否正确"
-user,SignIn125,請輸入您的身分證號,Please enter your ID Number.,请输入您的身份证号
-user,SignIn126,立即認證,Authenticate Now,立即认证
-user,SignIn127,安全保障中，資訊僅用於身分確認,The info is secured and can only be used for id verification.,安全保障中，信息仅用于身份确认
-user,SignIn128,未使用,Unused,未使用
-user,SignIn129,已使用,Used,已使用
-user,SignIn130,已過期,Expired,已过期
-user,SignIn131,我的卡包,My Card Holder,我的卡包
-user,SignIn132,暫無卡券,No cards or coupons for now,暂无卡券
-user,SignIn133,小時,Hour,小时
-user,SignIn134,分,Minute,分
-user,SignIn135,後將過期,xxx till expiration,后将过期
-user,SignIn136,滿,Full,满
-user,SignIn137,可用,Available,可用
-user,SignIn138,立減,Directly save,立减
-user,SignIn139,立即使用,Use now,立即使用
-user,SignIn140,折,Off,折
-user,SignIn141,優惠券即將過期,The coupon is about to expire.,优惠券即将过期
-user,SignIn142,您還有新用戶專屬優惠券暫未使用，確認放棄？,You still have unused coupon(s) for new users. Give up?,您还有新用户专享优惠券暂未使用，确认放弃？
-user,SignIn143,未查詢到付款完成，請稍後再試,The payment result couldn't be found. Please try again later.,未查询到支付完成，请稍后再试
-user,SignIn144,訂單支付成功,Order paid successfully,订单支付成功
-user,SignIn145,開啟暢玩遊戲之旅吧,Binge Gaming Now,开启畅玩游戏之旅吧
-user,SignIn146,我知道了,Got it,我知道了
-user,SignIn147,訂單已過期,Order expired,订单已过期
-user,SignIn148,請重新選擇訂單,Please reselect the order.,请重新选择订单
-user,SignIn149,掃描成功,Scanned,扫描成功
-user,SignIn150,請於10分鐘內完成付款,Please finish the payment within 10 minutes.,请于10分钟内完成付款
-user,SignIn151,已完成付款,Payment finished,已完成付款
-user,SignIn152,取消支付,Cancel Payment,取消支付
-user,SignIn153,支付遇到問題？ 請聯繫,Met a problem with payment? Please contact xxx,支付遇到问题？请联系
-user,SignIn154,行銷QQ,Marketing QQ,营销QQ
-user,SignIn155,自動續費套餐暫時不支援paypal、微信購買,Auto-renewal Package can't be purchased via Paypal or WeChat for now.,自动续费套餐暂不支持paypal、微信购买
-user,SignIn156,僅支援支付寶掃碼支付,Only supports Alipay QR Code Payment.,仅支持支付宝扫码支付
-user,SignIn157,僅支援微信掃碼支付,Only supports WeChat QR Code Payment.,仅支持微信扫码支付
-user,SignIn158,點擊此處查看更多套餐,Click here to learn about more packages.,点击此处可查看更多套餐
-user,SignIn159,小時,Hour,小时
-user,SignIn160,分分鐘,Minute,分钟
-user,SignIn161,秒後消失,xxx seconds till disappearance,秒后消失
-user,SignIn162,遊戲會員尊享8大特權,Game members enjoy 8 privileges,游戏会员尊享8大特权
-user,SignIn163,穩定降低遊戲延遲,Stable and low game lag,稳定降低游戏延迟
-user,SignIn164,全球遊戲加速,Global game speedup,全球游戏加速
-user,SignIn165,4000+電競級專線,4000+ exclusive esports lines,4000+电竞级专线
-user,SignIn166,遊戲直播、遊戲翻譯、客製專線,"Game streaming, game translation, custom lines",游戏直播、游戏翻译、定制专线
-user,SignIn167,支援PC、行動、Mac、電視,"Support PC, mobile devices, Mac, and televisions.",支持PC、移动、Mac、电视
-user,SignIn168,可5台設備在線,Logged in on 5 devices simultaneously,可5台设备在线
-user,SignIn169,支援1V1人工客服,1V1 manual customer support,支持1V1人工客服
-user,SignIn170,二維碼已過期,Qrcode expired,二维码已过期
-user,SignIn171,點擊刷新,Click refresh,点击刷新
-user,SignIn172,已減,Reduced,已减
-user,SignIn173,總計,Total,总计
-user,SignIn174,現僅需,Now only need,现仅需
-user,SignIn175,請輸入兌換碼,Enter REDEEM CODE,请输入兑换码
-user,SignIn176,大於,More than,大于
-user,SignIn177,小於,Below,小于
-user,SignIn178,試用,Try it,试用
-user,SignIn179,中國大陸,Chinese mainland,中国大陆
-user,SignIn180,中國香港,China Hong Kong,中国香港
-user,SignIn181,中國台灣,"Taiwan, China",中国台湾
-user,SignIn182,美國,USA,美国
-user,SignIn183,阿爾巴尼亞,Albania,阿尔巴尼亚
-user,SignIn184,阿爾及利亞,Algeria,阿尔及利亚
-user,SignIn185,阿富汗,Afghanistan,阿富汗
-user,SignIn186,阿根廷,Argentina,阿根廷
-user,SignIn187,阿聯酋,United Arab Emirates,阿联酋
-user,SignIn188,阿魯巴,Aruba,阿鲁巴
-user,SignIn189,阿曼,Oman,阿曼
-user,SignIn190,亞塞拜然,Azerbaijan,阿塞拜疆
-user,SignIn191,埃及,Egypt,埃及
-user,SignIn192,衣索比亞,Ethiopia,埃塞俄比亚
-user,SignIn193,愛爾蘭,Ireland,爱尔兰
-user,SignIn194,愛沙尼亞,Estonia,爱沙尼亚
-user,SignIn195,安道爾,Andorra,安道尔
-user,SignIn196,安哥拉,Angola,安哥拉
-user,SignIn197,安圭拉,Anguilla,安圭拉
-user,SignIn198,安地卡及巴布達島,Antigua and Barbuda,安提瓜和巴布达岛
-user,SignIn199,奧地利,Austria,奥地利
-user,SignIn200,澳洲,Australia,澳大利亚
-user,SignIn201,澳門,Macao,澳门
-user,SignIn202,巴貝多,Barbados,巴巴多斯
-user,SignIn203,巴布亞紐幾內亞,papua new guinea,巴布亚新几内亚
-user,SignIn204,巴哈馬,Bahamas,巴哈马
-user,SignIn205,巴基斯坦,Pakistan,巴基斯坦
-user,SignIn206,巴拉圭,Paraguay,巴拉圭
-user,SignIn207,巴勒斯坦,Palestine,巴勒斯坦
-user,SignIn208,巴林,Bahrain,巴林
-user,SignIn209,巴拿馬,Panama,巴拿马
-user,SignIn210,巴西,Brazil,巴西
-user,SignIn211,白俄羅斯,belarus,白俄罗斯
-user,SignIn212,百慕達群島,bermuda islands,百慕大群岛
-user,SignIn213,保加利亞,Bulgaria,保加利亚
-user,SignIn214,北馬裡亞納群島,Northern Mariana Islands,北马里亚纳群岛
-user,SignIn215,貝南,Benin,贝宁
-user,SignIn216,比利時,Belgium,比利时
-user,SignIn217,冰島,Iceland,冰岛
-user,SignIn218,波多黎各,Puerto Rico,波多黎各
-user,SignIn219,波蘭,Poland,波兰
-user,SignIn220,波士尼亞與赫塞哥維納,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那
-user,SignIn221,玻利維亞,Bolivia,玻利维亚
-user,SignIn222,貝里斯,Belize,伯利兹
-user,SignIn223,波札那,Botswana,博茨瓦纳
-user,SignIn224,不丹,Bhutan,不丹
-user,SignIn225,布吉納法索,Burkina Faso,布基纳法索
-user,SignIn226,蒲隆地,Burundi,布隆迪
-user,SignIn227,赤道幾內亞,Equatorial Guinea,赤道几内亚
-user,SignIn228,丹麥,Denmark,丹麦
-user,SignIn229,德國,Germany,德国
-user,SignIn230,迭戈加西亞,Diego Garcia,迭戈加西亚
-user,SignIn231,東帝汶,East Timor,东帝汶
-user,SignIn232,多哥,TOGO,多哥
-user,SignIn233,多明尼克,Dominica,多米尼克
-user,SignIn234,多明尼加共和國,Dominican Republic,多明尼加共和国
-user,SignIn235,俄羅斯,Russia,俄罗斯
-user,SignIn236,厄瓜多,Ecuador,厄瓜多尔
-user,SignIn237,法國,France,法国
-user,SignIn238,法羅群島,faroe islands,法罗群岛
-user,SignIn239,法屬玻里尼西亞,French Polynesia,法属波利尼西亚
-user,SignIn240,法屬圭亞那,French Guiana,法属圭亚那
-user,SignIn241,菲律賓,Philippines,菲律宾
-user,SignIn242,斐濟,Fiji,斐济
-user,SignIn243,芬蘭,Finland,芬兰
-user,SignIn244,福克蘭群島,Falkland Islands,福克兰群岛
-user,SignIn245,甘比亞,Gambia,冈比亚
-user,SignIn246,剛果,Congo,刚果
-user,SignIn247,剛果金,Democratic Republic of the Congo,刚果金
-user,SignIn248,哥倫比亞,Colombia,哥伦比亚
-user,SignIn249,哥斯大黎加,costa rica,哥斯达黎加
-user,SignIn250,格瑞那達,Greneda,格林纳达
-user,SignIn251,格陵蘭島,Greenland,格陵兰岛
-user,SignIn252,古巴,cuba,古巴
-user,SignIn253,瓜德羅普島,Guadeloupe,瓜德罗普岛
-user,SignIn254,關島,Guam,关岛
-user,SignIn255,蓋亞那,Guyana,圭亚那
-user,SignIn256,哈薩克,Kazakhstan,哈萨克斯坦
-user,SignIn257,海地,Haiti,海地
-user,SignIn258,韓國,South Korea,韩国
-user,SignIn259,荷蘭,Netherlands,荷兰
-user,SignIn260,荷屬安的列斯群島,Netherlands Antilles,荷属安的列斯群岛
-user,SignIn261,蒙特內哥羅,Montenegro,黑山
-user,SignIn262,宏都拉斯,Honduras,洪都拉斯
-user,SignIn263,吉布地,Djibouti,吉布提
-user,SignIn264,吉爾吉斯斯坦,Kyrgyzstan,吉尔吉斯斯坦
-user,SignIn265,幾內亞,Guinea,几内亚
-user,SignIn266,幾內亞比紹,Guinea-Bissau,几内亚比绍
-user,SignIn267,加拿大,Canada,加拿大
-user,SignIn268,迦納,Ghana,加纳
-user,SignIn269,加彭,Gabon,加蓬
-user,SignIn270,柬埔寨,Cambodia,柬埔寨
-user,SignIn271,捷克共和國,Czech Republic,捷克共和国
-user,SignIn272,辛巴威,Zimbabwe,津巴布韦
-user,SignIn273,喀麥隆,Cameroon,喀麦隆
-user,SignIn274,卡達,Qatar,卡塔尔
-user,SignIn275,開曼群島,Cayman Islands,开曼群岛
-user,SignIn276,葛摩,Comoros,科摩罗
-user,SignIn277,科索沃,Kosovo,科索沃
-user,SignIn278,科特迪瓦,Cote d'Ivoire,科特迪瓦
-user,SignIn279,科威特,Kuwait,科威特
-user,SignIn280,克羅埃西亞,Croatia,克罗地亚
-user,SignIn281,肯亞,Kenya,肯尼亚
-user,SignIn282,庫克群島,Island,库克群岛
-user,SignIn283,拉脫維亞,Latvia,拉脱维亚
-user,SignIn284,賴索托,Lesotho,莱索托
-user,SignIn285,寮國,Laos,老挝
-user,SignIn286,黎巴嫩,lebanon,黎巴嫩
-user,SignIn287,立陶宛,Lithuania,立陶宛
-user,SignIn288,賴比瑞亞,Liberia,利比里亚
-user,SignIn289,利比亞,Libya,利比亚
-user,SignIn290,列支敦斯登,Liechtenstein,列支敦士登
-user,SignIn291,留尼旺,Reunion,留尼旺
-user,SignIn292,盧森堡,Luxembourg,卢森堡
-user,SignIn293,盧安達,Rwanda,卢旺达
-user,SignIn294,羅馬尼亞,Romania,罗马尼亚
-user,SignIn295,馬達加斯加,madagascar,马达加斯加
-user,SignIn296,馬爾地夫,Maldives,马尔代夫
-user,SignIn297,馬爾他,malta,马耳他
-user,SignIn298,馬拉威,Malawi,马拉维
-user,SignIn299,馬來西亞,Malaysia,马来西亚
-user,SignIn300,馬裡,Mali,马里
-user,SignIn301,馬其頓,macedonia,马其顿
-user,SignIn302,馬提尼克,Martinique,马提尼克
-user,SignIn303,模里西斯,Mauritius,毛里求斯
-user,SignIn304,茅利塔尼亞,mauritania,毛里塔尼亚
-user,SignIn305,美國薩摩亞,American Samoa,美国萨摩亚
-user,SignIn306,美屬維珍群島,U.S. Virgin Islands,美属维珍群岛
-user,SignIn307,蒙古,Mongolia,蒙古
-user,SignIn308,蒙特塞拉特島,Montserrat Island,蒙特塞拉特岛
-user,SignIn309,孟加拉,Bangladesh,孟加拉国
-user,SignIn310,秘魯,Peru,秘鲁
-user,SignIn311,緬甸,Myanmar,缅甸
-user,SignIn312,摩爾多瓦,Moldovan,摩尔多瓦
-user,SignIn313,摩洛哥,Morocco,摩洛哥
-user,SignIn314,摩納哥,Monaco,摩纳哥
-user,SignIn315,莫三比克,Mozambique,莫桑比克
-user,SignIn316,墨西哥,Mexico,墨西哥
-user,SignIn317,納米比亞,Namibia,纳米比亚
-user,SignIn318,南非,South Africa,南非
-user,SignIn319,南蘇丹,South Sudan,南苏丹
-user,SignIn320,諾魯,Nauru,瑙鲁
-user,SignIn321,尼加拉瓜,Nicaragua,尼加拉瓜
-user,SignIn322,尼泊爾,Nepal,尼泊尔
-user,SignIn323,尼日,Niger,尼日尔
-user,SignIn324,奈及利亞,Nigeria,尼日利亚
-user,SignIn325,挪威,Norway,挪威
-user,SignIn326,諾福克島,norfolk island,诺福克岛
-user,SignIn327,帛琉,Palau,帕劳
-user,SignIn328,葡萄牙,Portugal,葡萄牙
-user,SignIn329,喬丹,Jordan,乔丹
-user,SignIn330,日本,Japan,日本
-user,SignIn331,瑞典,Sweden,瑞典
-user,SignIn332,瑞士,Switzerland,瑞士
-user,SignIn333,薩爾瓦多,El Salvador,萨尔瓦多
-user,SignIn334,薩摩亞,Samoa,萨摩亚
-user,SignIn335,塞爾維亞,Serbia,塞尔维亚
-user,SignIn336,獅子山,Sierra Leone,塞拉利昂
-user,SignIn337,塞內加爾,Senegal,塞内加尔
-user,SignIn338,賽普勒斯,Cyprus,塞浦路斯
-user,SignIn339,塞席爾,Seychelles,塞舌尔
-user,SignIn340,沙烏地阿拉伯,Saudi Arabia,沙特阿拉伯
-user,SignIn341,聖彼埃爾和密克隆島,Saint Pierre and Miquelon,圣彼埃尔和密克隆岛
-user,SignIn342,聖多美和普林西比,Sao Tome and Príncipe,圣多美和普林西比
-user,SignIn343,聖克里斯多福及尼維斯,Saint Kitts and Nevis,圣基茨和尼维斯
-user,SignIn344,聖露西亞,saint lucia,圣露西亚
-user,SignIn345,聖馬利諾,san marino,圣马力诺
-user,SignIn346,聖文森及格瑞那丁,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯
-user,SignIn347,斯里蘭卡,Sri Lanka,斯里兰卡
-user,SignIn348,斯洛伐克,Slovakia,斯洛伐克
-user,SignIn349,斯洛維尼亞,slovenia,斯洛文尼亚
-user,SignIn350,史瓦濟蘭,Swaziland,斯威士兰
-user,SignIn351,蘇丹,Sudan,苏丹
-user,SignIn352,蘇利南,Surinam,苏里南
-user,SignIn353,索馬利亞,somalia,索马里
-user,SignIn354,塔吉克,Tajikistan,塔吉克斯坦
-user,SignIn355,泰國,Thailand,泰国
-user,SignIn356,坦尚尼亞,Tanzania,坦桑尼亚
-user,SignIn357,東加,Tonga,汤加
-user,SignIn358,特克斯和凱科斯群島,Turks and Caicos Islands,特克斯和凯科斯群岛
-user,SignIn359,千里達及托巴哥,Trinidad and Tobago,特立尼达和多巴哥
-user,SignIn360,突尼西亞,Tunisia,突尼斯
-user,SignIn361,土耳其,Türkiye,土耳其
-user,SignIn362,土庫曼,Turkmenistan,土库曼斯坦
-user,SignIn363,瓦利斯和福圖納島,Wallis and Fortuna Islands,瓦利斯和福图纳岛
-user,SignIn364,萬那杜,Vanuatu,瓦努阿图
-user,SignIn365,瓜地馬拉,Guatemala,危地马拉
-user,SignIn366,委內瑞拉,Venezuela,委内瑞拉
-user,SignIn367,汶萊達魯薩蘭國,Brunei Darussalam,文莱达鲁萨兰国
-user,SignIn368,烏幹達,Uganda,乌干达
-user,SignIn369,烏克蘭,Ukraine,乌克兰
-user,SignIn370,烏拉圭,Uruguay,乌拉圭
-user,SignIn371,烏茲別克,Uzbekistan,乌兹别克斯坦
-user,SignIn372,西班牙,Spain,西班牙
-user,SignIn373,希臘,Greece,希腊
-user,SignIn374,新加坡,Singapore,新加坡
-user,SignIn375,新喀裡多尼亞,new caledonia,新喀里多尼亚
-user,SignIn376,匈牙利,Hungary,匈牙利
-user,SignIn377,敘利亞,Syria,叙利亚
-user,SignIn378,牙買加,jamaica,牙买加
-user,SignIn379,亞美尼亞,Armenia,亚美尼亚
-user,SignIn380,葉門,Yemen,也门
-user,SignIn381,伊拉克,Iraq,伊拉克
-user,SignIn382,伊朗,Iran,伊朗
-user,SignIn383,以色列,Israel,以色列
-user,SignIn384,義大利,Italy,意大利
-user,SignIn385,印度,India,印度
-user,SignIn386,印尼,Indonesia,印度尼西亚
-user,SignIn387,英國,United Kingdom,英国
-user,SignIn388,英屬維京群島,british virgin islands,英属维京群岛
-user,SignIn389,越南,Vietnam,越南
-user,SignIn390,尚比亞,Zambia,赞比亚
-user,SignIn391,查德,Chad,乍得
-user,SignIn392,直布羅陀,Gibraltar,直布罗陀
-user,SignIn393,智利,Chile,智利
-user,SignIn394,中非共和國,central african republic,中非共和国
-user,SignIn395,喬治亞州,Georgia,佐治亚州
+KEY,NAME_SPACE,zh-cn,zh-tw,en,,,,,,,,,,,,,,,
+MOBILE_LOGIN,sign,手机号登录,手機號登入,Phone-number Login,,,,,,,,,,,,,,,
+EMAIL_LOGIN,sign,用户名/邮箱登录,用戶名/郵箱登入,Username/Email Login,,,,,,,,,,,,,,,
+MOBILE_PLACEHOLDER,sign,请输入电话号码,請輸入手機號,Please enter phone number,,,,,,,,,,,,,,,
+PASSWORD_PLACEHOLDER,sign,请输入密码,請輸入密碼,Please enter password,,,,,,,,,,,,,,,
+MOBILE_REGISTERED,sign,手机号已被注册,手機號已被註冊,Phone number has been registered,,,,,,,,,,,,,,,
+HAVE_PROBLEM,sign,遇到问题？,遇到問題？,Problem?,,,,,,,,,,,,,,,
+PASSWORD_FORGOTTEN,sign,忘记密码,忘記密碼,Password forgotten,,,,,,,,,,,,,,,
+LOGIN_NOW,sign,立即登录,立即登入,Log in now,,,,,,,,,,,,,,,
+AGREED,sign,我已同意相关,我已同意相關,I've agreed to the related,,,,,,,,,,,,,,,
+SERVICE_TERMS,sign,服务条款,服務條款,service terms,,,,,,,,,,,,,,,
+HAVE_NO_ACCOUTN,sign,没有账号,沒有帳號,if you have none,,,,,,,,,,,,,,,
+TO_REGISTER,sign,去注册,去註冊,To register,,,,,,,,,,,,,,,
+EMAIL_PLACEHOLDER,sign,请输入用户名/邮箱,請輸入用戶名/信箱,Enter Username/Email,,,,,,,,,,,,,,,
+ACCOUNT_PLACEHOLDER,sign,请输入用户名,請輸入用戶名,Please enter user name,,,,,,,,,,,,,,,
+USE,sign,使用,使用,Use,,,,,,,,,,,,,,,
+APP,sign,Sixfast app,Sixfast app,Sixfast app,,,,,,,,,,,,,,,
+SCAN_CODE_LOGIN,sign,扫码登录,掃碼登入,Scan-code Login,,,,,,,,,,,,,,,
+OTHER_LOGIN,sign,其他方式登录,其他方式登入,Other login modes,,,,,,,,,,,,,,,
+REGISTER_MOBILE,sign,手机号注册,手機號碼註冊,Phone-number Register,,,,,,,,,,,,,,,
+REGISTER_EMAIL,sign,邮箱注册,信箱註冊,Register with e-mail,,,,,,,,,,,,,,,
+EMAIL_REGISTERED,sign,邮箱已被注册,信箱已被註冊,E-mail has been registered,,,,,,,,,,,,,,,
+ENTER_CODE,sign,请输入验证码,請輸入驗證碼,Enter VER Code,,,,,,,,,,,,,,,
+SEND_CODE,sign,请发送验证码,請發送驗證碼,Please send verification code,,,,,,,,,,,,,,,
+GET_CODE,sign,获取验证码,取得驗證碼,Get VER Code,,,,,,,,,,,,,,,
+REFERRAL_CODE,sign,推荐码(选填),推薦碼(選填),Referral Code (optional),,,,,,,,,,,,,,,
+ENTER_REFERRAL_CODE,sign,请输入推荐码,請輸入推薦碼,Please enter referral code,,,,,,,,,,,,,,,
+HAVE_ACCOUNT,sign,已有账号,已有帳號,Account owned,,,,,,,,,,,,,,,
+TO_LOGIN,sign,去登录,去登入,To Login,,,,,,,,,,,,,,,
+CHANGE_MOBILE,sign,手机号修改,手機號修改,Change phone,,,,,,,,,,,,,,,
+CHANGE_EMAIL,sign,修改邮箱,修改信箱,Change e-mail,,,,,,,,,,,,,,,
+CHANGE_PASSWORD,sign,修改密码,修改密碼,Change password,,,,,,,,,,,,,,,
+CONFIRM_CHANGE,sign,确认修改,確認修改,Confirm Change,,,,,,,,,,,,,,,
+LINK_NOW,sign,立即绑定,立即綁定,Link now,,,,,,,,,,,,,,,
+NEXT_STEP,sign,下一步,下一步,Next step,,,,,,,,,,,,,,,
+MOBILE_REBIND,sign,换绑手机号,換綁手機號,Change the linked phone number,,,,,,,,,,,,,,,
+LINK_EMAIL,sign,绑定邮箱,綁定信箱,Link e-mail,,,,,,,,,,,,,,,
+EMAIL_REBIND,sign,换绑邮箱,換綁信箱,Change the linked e-mail,,,,,,,,,,,,,,,
+LINK_MOBILE,sign,绑定手机号,綁定手機號,Link phone number,,,,,,,,,,,,,,,
+,,SVIP已过期,SVIP已過期,SVIP expired,,,,,,,,,,,,,,,
+,,SVIP剩余1024天,SVIP剩餘1024天,SVIP expires in 1024 days,,,,,,,,,,,,,,,
+TO_LINK,sign,去绑定,去綁定,To Link,,,,,,,,,,,,,,,
+,,Facebook,Facebook,Facebook,,,,,,,,,,,,,,,
+TO_CHANGE,sign,去修改,去修改,To Change,,,,,,,,,,,,,,,
+CHANGE_LINK,sign,换绑,換綁,Change Link,,,,,,,,,,,,,,,
+DELINK,sign,解除绑定,解除綁定,Delink,,,,,,,,,,,,,,,
+HAVE_SIXFAST_ACCOUNT,sign,是否有Sixfast账号,是否有Sixfast帳號,Do you have a Sixfast account?,,,,,,,,,,,,,,,
+BIND_ACCOUNT_LOGOUT,sign,退出将无法使用Sixfast，是否确认,退出將無法使用Sixfast，是否確認,"Close it and can't use the Sixfast service anymore, confirm?",,,,,,,,,,,,,,,
+KEEP_BIND,sign,继续绑定,繼續綁定,Continue to link,,,,,,,,,,,,,,,
+LOGOUT,sign,退出登录,登出登入,Log out,,,,,,,,,,,,,,,
+SIGNUP_SIXFAST,sign,注册Sixfast账号,註冊Sixfast帳號,Register a Sixfast account,,,,,,,,,,,,,,,
+USER_CHAR_LIMIT,sign,用户名不可输入\"@\"\".\"\"_\"以外的特殊字符,用戶名不可輸入\"@\"\".\"\"_\"以外的特殊字符,User Name can't include special characters other than \"@\"\".\"\"_\",,,,,,,,,,,,,,,
+,,用户名不可输入特殊字符,用戶名不可輸入特殊字符,User Name can't include special characters.,,,,,,,,,,,,,,,
+USER_EMPTY_LIMT,sign,用户名不能为空,用戶名不能為空,User Name can't be empty.,,,,,,,,,,,,,,,
+PWD_CHAR_LIMIT,sign,密码不可输入特殊字符,密碼不可輸入特殊字符,Password can't include special characters.,,,,,,,,,,,,,,,
+PWD_EMPTY_LIMT,sign,密码不能为空,密碼不能為空,Password can't be empty.,,,,,,,,,,,,,,,
+PWD_LEN_LIMIT,sign,密码长度限制6~18个字符,密碼長度限制6~18個字符,The password's length is 6~18 characters.,,,,,,,,,,,,,,,
+RESET_PWD_SUCCESS,sign,修改密码成功，请重新登录,修改密碼成功，請重新登入,"Password changed, please log in again.",,,,,,,,,,,,,,,
+LINK_SUCCESS,sign,绑定成功,綁定成功,Successfully linked,,,,,,,,,,,,,,,
+USER_LEN_LIMIT,sign,用户名长度限制6~40个字符,用戶名長度限制6~40個字符,The user name's length is 6~40 characters.,,,,,,,,,,,,,,,
+LINK_ACCOUNT,sign,绑定账号,綁定帳號,Link Account,,,,,,,,,,,,,,,
+ALREADY_BOUND_REMINDERE,sign,该账号已绑定,該帳號已綁定,This account has been linked to,,,,,,,,,,,,,,,
+ACCOUNT,sign,账号,帳號,Account,,,,,,,,,,,,,,,
+TIPS_FOR_CHANGING_BINDINGS,sign,请先登录账号再进行换绑操作,請先登入帳號再進行換綁操作,Please log in to change the link.,,,,,,,,,,,,,,,
+ENTER_CORRECT_CODE,sign,请输入正确的验证码,請輸入正確的驗證碼,Please enter the correct verification code.,,,,,,,,,,,,,,,
+ENTER_CORRECT_ACCOUNT,sign,请输入正确的用户名,請輸入正確的用戶名,Please enter the correct account,,,,,,,,,,,,,,,
+RESEND,sign,重新发送,重新發送,Resend,,,,,,,,,,,,,,,
+PLEASE_USE,sign,请使用,请使用,Please use,,,,,,,,,,,,,,,
+SCAN_CODE,sign,扫码,掃碼,scan code,,,,,,,,,,,,,,,
+BACK_TO_LOGIN,sign,返回登录,返回登入,Return to login,,,,,,,,,,,,,,,
+SIGNUP_SUCCESS,sign,注册成功,註冊成功,Successfully registered,,,,,,,,,,,,,,,
+REGISTER_NOW,sign,立即注册,立即註冊,Register now,,,,,,,,,,,,,,,
+ENTER_CORRECT_MOBILE,sign,请输入正确的手机号,請輸入正確的手機號,Please enter the correct phone number.,,,,,,,,,,,,,,,
+SCAN_CODE,user,扫码,掃碼,scan code,,,,,,,,,,,,,,,
+PLEASE_USE,user,请使用,请使用,Please use,,,,,,,,,,,,,,,
+,,登录中,登入中,Logging in,看不到这个,,,,,,,,,,,,,,
+UNLINKED_SUCCESS,user,解除绑定成功,解除綁定成功,Successfully unlinked,,,,,,,,,,,,,,,
+LINKED_ERROR,user,此账号已绑定其他Sixfast账号，请先解绑,此帳號已綁定其他Sixfast帳號，請先解綁,This account has linked to a Sixfast account. Please unlink first.,,,,,,,,,,,,,,,
+LINK_SUCCESS,user,绑定成功,綁定成功,Successfully linked,,,,,,,,,,,,,,,
+NICK_NAME_LEN_LIMIT,user,昵称最长不超过15个字符哦,暱稱最長不超過15個字元哦,The nickname length can't exceed 15 characters.,,,,,,,,,,,,,,,
+NICK_NAME_CHAR_LIMIT,user,昵称不能含敏感词汇或特殊字符哦,暱稱不能含敏感字彙或特殊字元哦,Nickname can't include sensitive words or special characters.,,,,,,,,,,,,,,,
+VIP_RECHARGE,user,会员充值,會員儲值,VIP Recharge,,,,,,,,,,,,,,,
+CHANGE_PWD_ERROR,user,请先绑定手机或邮箱,請先綁定手機或信箱,Please link the phone number or email.,,,,,,,,,,,,,,,
+MOBILE,user,手机,手機,Phone number,,,,,,,,,,,,,,,
+CHANGE_LINK,user,换绑,換綁,Change Link,,,,,,,,,,,,,,,
+TO_LINK,user,去绑定,去綁定,To Link,,,,,,,,,,,,,,,
+EMAIL,user,邮箱,信箱,E-mail,,,,,,,,,,,,,,,
+DELINK,user,解除绑定,解除綁定,Delink,,,,,,,,,,,,,,,
+CHANGE_PASSWORD,user,修改密码,修改密碼,Change password,,,,,,,,,,,,,,,
+TO_CHANGE_PWD,user,去修改,去修改,To Change,,,,,,,,,,,,,,,
+CERT,user,实名认证,實名認證,Real-name Authentication,,,,,,,,,,,,,,,
+TO_CERT,user,去认证,去認證,To Verify,,,,,,,,,,,,,,,
+CERTED,user,已认证,已認證,Authenticated,,,,,,,,,,,,,,,
+PLEASE_USE,user,请使用,请使用,Please use,,,,,,,,,,,,,,,
+DELINKED_TIP,user,要解除与账号,要解除與帳號,Delink,,,,,,,,,,,,,,,
+BINDING,user,的绑定吗,的綁定嗎,Binding,,,,,,,,,,,,,,,
+COMFIRM,user,确定,確定,Confirm,,,,,,,,,,,,,,,
+CANCEL,user,取消,取消,Cancel,,,,,,,,,,,,,,,
+WECHAT,user,微信,微信,Wechat,,,,,,,,,,,,,,,
+EXPIRED,user,已过期,已過期,Expired,,,,,,,,,,,,,,,
+EXPIRES,user,剩余,剩餘,expires,,,,,,,,,,,,,,,
+DAY,user,天,天,days,,,,,,,,,,,,,,,
+MORE_THAN,user,大于,大於,More than,,,,,,,,,,,,,,,
+BELOW,user,小于,小於,Below,,,,,,,,,,,,,,,
+TRY,user,试用,試用,Try it,,,,,,,,,,,,,,,
+HOURS,user,小时,小時,Hour,,,,,,,,,,,,,,,
+EDIT_AVATAR,user,编辑头像,編輯頭像,Edit Avatar,,,,,,,,,,,,,,,
+RE_UPLOAD,user,重新上传,重新上傳,Reupload,,,,,,,,,,,,,,,
+TAB_GAME_TITLE,pay,游戏会员(SVIP),遊戲會員(SVIP),Game VIP (SVIP),,,,,,,,,,,,,,,
+TAB_GAME_DES,pay,支持影音+游戏加速功能,支援影音+遊戲加速功能,Support video+game speedup,,,,,,,,,,,,,,,
+TAB_VIDEO_TITLE,pay,影音会员(VIP),影音會員(VIP),Video VIP (VIP),,,,,,,,,,,,,,,
+TAB_VIDEO_DES,pay,仅支持影音加速功能,僅支援影音加速功能,Only support video speedup,,,,,,,,,,,,,,,
+YVIP_TITLE_HIGHLIGHT,pay,影音会员尊享7大特权,影音會員尊享7大特權,Video members enjoy 7 privileges,,,,,,,,,,,,,,,
+YVIP_DES_1,pay,访问/解锁国内应用,訪問/解鎖國內應用,Access/Unlock domestic apps,,,,,,,,,,,,,,,
+YVIP_DES_2,pay,影音、直播、金融、学习、办公,影音、直播、金融、學習、辦公,"Video, livestream, finance, study, and work.",,,,,,,,,,,,,,,
+YVIP_DES_3,pay,支持PC、移动、Mac、电视,支援PC、行動、Mac、電視,"Support PC, mobile device, Mac, and television.",,,,,,,,,,,,,,,
+YVIP_DES_4,pay,支持3台设备在线,支援3台設備在線,Support 3-device login simultaneously,,,,,,,,,,,,,,,
+YVIP_DES_5,pay,全球节点 高速专线,全球節點 高速專線,Global nodes and exclusive lines,,,,,,,,,,,,,,,
+YVIP_DES_6,pay,无限高速流量,無限高速流量,Unlimited high-speed data flow,,,,,,,,,,,,,,,
+YVIP_DES_7,pay,支持7*12小时人工客服,支援7*12小時人工客服,Human customer service for 7 *12 hours,,,,,,,,,,,,,,,
+NO_COUPON_TEXT,pay,暂无可用优惠券,暫無可用優惠券,No available coupons for now,,,,,,,,,,,,,,,
+CARD_EXCHANGE_BTN,pay,卡券兑换,卡券兌換,Card&Coupon Exchange,,,,,,,,,,,,,,,
+CARD_EXCHANGE_COMFIRM,pay,兑换,兌換,Exchange,,,,,,,,,,,,,,,
+,,换绑邮箱,換綁信箱,Change the linked e-mail,,,,,,,,,,,,,,,
+VIA_PAYPAL,pay,Paypal支付,Paypal支付,Via Paypal,,,,,,,,,,,,,,,
+VIA_WECHAT_ALI,pay,微信/支付宝支付,微信/支付寶支付,Via Wechat/Alipay,,,,,,,,,,,,,,,
+READ_AND_AGREE,pay,购买即视为阅读并同意,購買即視為閱讀並同意,"By purchasing it, you acknowledge and agree to ",,,,,,,,,,,,,,,
+AUTO_RENEWAL_AGREEMENT,pay,自动续费协议,自動續費協議,Auto-renewal Agreement,,,,,,,,,,,,,,,
+MEMBER_SERVICE_AGREEMENT,pay,会员服务协议,會員服務協議,VIP Agreement,,,,,,,,,,,,,,,
+YUAN,pay,元,元,Yuan,,,,,,,,,,,,,,,
+SAVE,pay,已省,已省,Save xxx,,,,,,,,,,,,,,,
+MEMBER_TITLE,pay,游戏会员尊享,遊戲會員尊享,Game members enjoy,,,,,,,,,,,,,,,
+SVIP_TITLE_HIGHLIGHT,pay,8大特权,8大特權,8 privileges,,,,,,,,,,,,,,,
+SVIP_DES_1,pay,稳定降低游戏延迟,穩定降低遊戲延遲,Stable and low game lag,,,,,,,,,,,,,,,
+SVIP_DES_2,pay,全球游戏加速,全球遊戲加速,Global game speedup,,,,,,,,,,,,,,,
+SVIP_DES_3,pay,4000+电竞级专线,4000+電競級專線,4000+ exclusive esports lines,,,,,,,,,,,,,,,
+SVIP_DES_4,pay,游戏直播、游戏翻译、定制专线,遊戲直播、遊戲翻譯、客製專線,"Game streaming, game translation, custom lines",,,,,,,,,,,,,,,
+SVIP_DES_5,pay,访问/解锁国内应用,訪問/解鎖國內應用,Access/Unlock domestic apps,,,,,,,,,,,,,,,
+SVIP_DES_6,pay,支持PC、移动、Mac、电视,支援PC、行動、Mac、電視,"Support PC, mobile devices, Mac, and televisions.",,,,,,,,,,,,,,,
+SVIP_DES_7,pay,可5台设备在线,可5台設備在線,Logged in on 5 devices simultaneously,,,,,,,,,,,,,,,
+SVIP_DES_8,pay,支持1V1人工客服,支援1V1人工客服,1V1 manual customer support,,,,,,,,,,,,,,,
+QRCODE_EXPIRED,pay,二维码已过期,二維碼已過期,Qrcode expired,,,,,,,,,,,,,,,
+QRCODE_REFRESH,pay,点击刷新,點擊刷新,Click refresh,,,,,,,,,,,,,,,
+SCAN_CODE_PAY,pay,扫码支付,掃碼支付,Scan code to pay,,,,,,,,,,,,,,,
+ORIGIN_PRICE_PREFIX,pay,总计,總計,Total,,,,,,,,,,,,,,,
+SALE_PRICE_PREFIX,pay,现仅需 ￥{{price}},現僅需 ￥{{price}},￥{{ price }} needed,,,,,,,,,,,,,,,
+CARD_INPUT_PLACEHOLDER,pay,请输入兑换码,請輸入兌換碼,Enter REDEEM CODE,,,,,,,,,,,,,,,
+USE_COUPON_BTN,pay,立即使用,立即使用,Use now,,,,,,,,,,,,,,,
+CARD_EXCHANGE_SUCCESS_BTN,pay,我知道了,我知道了,Got it,,,,,,,,,,,,,,,
+PAY_NOW,pay,立即支付,立即支付,Pay in now,,,,,,,,,,,,,,,
+MODAL_SUCCESS_TITLE,pay,订单支付成功,訂單支付成功,Order paid successfully,,,,,,,,,,,,,,,
+MODAL_SUCCESS_DES,pay,开启畅玩游戏之旅吧,開啟暢玩遊戲之旅吧,Binge Gaming Now,,,,,,,,,,,,,,,
+MODAL_EXPIRED_TITLE,pay,订单已过期,訂單已過期,Order expired,,,,,,,,,,,,,,,
+MODAL_EXPIRED_DES,pay,请重新选择订单,請重新選擇訂單,Please reselect the order.,,,,,,,,,,,,,,,
+MODAL_EXPIRED_COMFIRM,pay,重新选择,重新選擇,Reselect,,,,,,,,,,,,,,,
+MODAL_SCAN_TITLE,pay,扫描成功,掃描成功,Scanned,,,,,,,,,,,,,,,
+MODAL_SCAN_DES,pay,请于10分钟内完成付款,請於10分鐘內完成付款,Please finish the payment within 10 minutes.,,,,,,,,,,,,,,,
+MODAL_SCAN_CONFIRM,pay,已完成付款,已完成付款,Payment finished,,,,,,,,,,,,,,,
+MODAL_SCAN_CANCEL,pay,取消支付,取消支付,Cancel Payment,,,,,,,,,,,,,,,
+MODAL_SCAN_WARN,pay,未查询到支付完成，请稍后再试,未查詢到付款完成，請稍後再試,The payment result couldn't be found. Please try again later.,,,,,,,,,,,,,,,
+COPY_SUCCESS,common,复制成功,復製成功,Copy successfully,,,,,,,,,,,,,,,
+NO_MESSAGES,common,没有消息,没有消息,No messages,,,,,,,,,,,,,,,
+THE_END,common,哎呀~到底了,哎呀~到底了,Uh～ You hit the bottom,,,,,,,,,,,,,,,
+,,图片大小必须小于10MB,圖片大小必須小於10MB,The picture size must be below 10MB.,触发不了,,,,,,,,,,,,,,
+,,图片分辨率必须小于2560*2560,圖片解析度必須小於2560*2560,The picture resolution must be below 2560*2560.,,,,,,,,,,,,,,,
+CONTACT_KF,cert,请联系客服,請聯絡客服,Please contact customer service.,,,,,,,,,,,,,,,
+SUCCESS,cert,认证成功,認證成功,Successfully authenticated,,,,,,,,,,,,,,,
+DES,cert,根据相关法律法规的规定，您需要通过实名认证后方可使用我们的部分服务,根據相關法律法規的規定，您需要透過實名認證後方可使用我們的部分服務,"In accordance with the related laws and regulations, you must finish the real-name authentication to use some of our services.",,,,,,,,,,,,,,,
+REAL_NAME_LABEL,cert,真实姓名,真實姓名,Real Name,,,,,,,,,,,,,,,
+REAL_NAME_NO_EMPTY,cert,姓名不能为空,姓名不能為空,Name can't be empty.,,,,,,,,,,,,,,,
+REAL_NAME_WRONG_FORMAT,cert,姓名格式错误，请确认填写的信息是否正确,姓名格式錯誤，請確認填寫的資料是否正確,"Name format error, please check the entered info.",,,,,,,,,,,,,,,
+REAL_NAME_PLACEHOLDER,cert,请输入您的真实姓名,請輸入您的真實姓名,Please enter your real name.,,,,,,,,,,,,,,,
+ID_CARD_LABEL,cert,身份证号,身分證號,ID Number,,,,,,,,,,,,,,,
+ID_CARD_NO_EMPTY,cert,身份证号不能为空,身分證號碼不能為空,ID Number can't be empty.,,,,,,,,,,,,,,,
+ID_CARD_WRONG_FORMAT,cert,"身份证号错误,请确认填写的信息是否正确","身分證字號錯誤,請確認填寫的資料是否正確","Incorrect ID Number, please check the entered info.",,,,,,,,,,,,,,,
+ID_CARD_PLACEHOLDER,cert,请输入您的身份证号,請輸入您的身分證號,Please enter your ID Number.,,,,,,,,,,,,,,,
+SUBMIT,cert,立即认证,立即認證,Authenticate Now,,,,,,,,,,,,,,,
+LOADING,cert,安全保障中，信息仅用于身份确认,安全保障中，資訊僅用於身分確認,The info is secured and can only be used for id verification.,,,,,,,,,,,,,,,
+TAB_NO_USE,card,未使用,未使用,Unused,,,,,,,,,,,,,,,
+TAB_USED,card,已使用,已使用,Used,,,,,,,,,,,,,,,
+MY_CARD,card,我的卡包,我的卡包,My Card Holder,,,,,,,,,,,,,,,
+EXPIRED,card,已过期,已過期,Expired,,,,,,,,,,,,,,,
+NO_COUPONS,card,暂无卡券,暫無卡券,No cards or coupons for now,,,,,,,,,,,,,,,
+EXPIRING_SOON,card,后将过期,後將過期,xxx till expiration,,,,,,,,,,,,,,,
+FULL,card,满,滿,Full,,,,,,,,,,,,,,,
+CAN_USE,card,可用,可用,Available,,,,,,,,,,,,,,,
+IMMEDIATE_REDUCTION,card,立减,立減,Directly save,,,,,,,,,,,,,,,
+UNIT,card,折,折,Off,,,,,,,,,,,,,,,
+ADVENT_TITLE,card,优惠券即将过期,優惠券即將過期,The coupon is about to expire.,,,,,,,,,,,,,,,
+ADVENT_TIPS,card,您还有新用户专享优惠券暂未使用，确认放弃？,您還有新用戶專屬優惠券暫未使用，確認放棄？,You still have unused coupon(s) for new users. Give up?,,,,,,,,,,,,,,,
+HOURS,card,小时,小時,Hour,,,,,,,,,,,,,,,
+MORE_TIPS,card,点击此处可查看更多套餐,點擊此處查看更多套餐,Click here to learn about more packages.,,,,,,,,,,,,,,,
+MINUTES,card,分钟,分分鐘,Minute,,,,,,,,,,,,,,,
+SECONDS_DISAPPEARANCE,card,秒后消失,秒後消失,xxx seconds till disappearance,,,,,,,,,,,,,,,
+USE_IT_NOW,card,去使用,去使用,To use,,,,,,,,,,,,,,,
+DISCOUNT_FULL,card,满{{ price1 }}立减{{ price2 }},滿{{ price1 }}立減{{ price2 }},{{ price1 }} off for every {{ price2 }},,,,,,,,,,,,,,,
+USE_CONDITION,card,满{{ price }}可用,满{{ price }}可用,Available for orders over {{ price }},,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,中国大陆,中國大陸,Chinese mainland,,,,,,,,,,,,,,,
+,,中国香港,中國香港,China Hong Kong,,,,,,,,,,,,,,,
+,,中国台湾,中國台灣,"Taiwan, China",,,,,,,,,,,,,,,
+,,美国,美國,USA,,,,,,,,,,,,,,,
+,,阿尔巴尼亚,阿爾巴尼亞,Albania,,,,,,,,,,,,,,,
+,,阿尔及利亚,阿爾及利亞,Algeria,,,,,,,,,,,,,,,
+,,阿富汗,阿富汗,Afghanistan,,,,,,,,,,,,,,,
+,,阿根廷,阿根廷,Argentina,,,,,,,,,,,,,,,
+,,阿联酋,阿聯酋,United Arab Emirates,,,,,,,,,,,,,,,
+,,阿鲁巴,阿魯巴,Aruba,,,,,,,,,,,,,,,
+,,阿曼,阿曼,Oman,,,,,,,,,,,,,,,
+,,阿塞拜疆,亞塞拜然,Azerbaijan,,,,,,,,,,,,,,,
+,,埃及,埃及,Egypt,,,,,,,,,,,,,,,
+,,埃塞俄比亚,衣索比亞,Ethiopia,,,,,,,,,,,,,,,
+,,爱尔兰,愛爾蘭,Ireland,,,,,,,,,,,,,,,
+,,爱沙尼亚,愛沙尼亞,Estonia,,,,,,,,,,,,,,,
+,,安道尔,安道爾,Andorra,,,,,,,,,,,,,,,
+,,安哥拉,安哥拉,Angola,,,,,,,,,,,,,,,
+,,安圭拉,安圭拉,Anguilla,,,,,,,,,,,,,,,
+,,安提瓜和巴布达岛,安地卡及巴布達島,Antigua and Barbuda,,,,,,,,,,,,,,,
+,,奥地利,奧地利,Austria,,,,,,,,,,,,,,,
+,,澳大利亚,澳洲,Australia,,,,,,,,,,,,,,,
+,,澳门,澳門,Macao,,,,,,,,,,,,,,,
+,,巴巴多斯,巴貝多,Barbados,,,,,,,,,,,,,,,
+,,巴布亚新几内亚,巴布亞紐幾內亞,papua new guinea,,,,,,,,,,,,,,,
+,,巴哈马,巴哈馬,Bahamas,,,,,,,,,,,,,,,
+,,巴基斯坦,巴基斯坦,Pakistan,,,,,,,,,,,,,,,
+,,巴拉圭,巴拉圭,Paraguay,,,,,,,,,,,,,,,
+,,巴勒斯坦,巴勒斯坦,Palestine,,,,,,,,,,,,,,,
+,,巴林,巴林,Bahrain,,,,,,,,,,,,,,,
+,,巴拿马,巴拿馬,Panama,,,,,,,,,,,,,,,
+,,巴西,巴西,Brazil,,,,,,,,,,,,,,,
+,,白俄罗斯,白俄羅斯,belarus,,,,,,,,,,,,,,,
+,,百慕大群岛,百慕達群島,bermuda islands,,,,,,,,,,,,,,,
+,,保加利亚,保加利亞,Bulgaria,,,,,,,,,,,,,,,
+,,北马里亚纳群岛,北馬裡亞納群島,Northern Mariana Islands,,,,,,,,,,,,,,,
+,,贝宁,貝南,Benin,,,,,,,,,,,,,,,
+,,比利时,比利時,Belgium,,,,,,,,,,,,,,,
+,,冰岛,冰島,Iceland,,,,,,,,,,,,,,,
+,,波多黎各,波多黎各,Puerto Rico,,,,,,,,,,,,,,,
+,,波兰,波蘭,Poland,,,,,,,,,,,,,,,
+,,波斯尼亚和黑塞哥维那,波士尼亞與赫塞哥維納,Bosnia and Herzegovina,,,,,,,,,,,,,,,
+,,玻利维亚,玻利維亞,Bolivia,,,,,,,,,,,,,,,
+,,伯利兹,貝里斯,Belize,,,,,,,,,,,,,,,
+,,博茨瓦纳,波札那,Botswana,,,,,,,,,,,,,,,
+,,不丹,不丹,Bhutan,,,,,,,,,,,,,,,
+,,布基纳法索,布吉納法索,Burkina Faso,,,,,,,,,,,,,,,
+,,布隆迪,蒲隆地,Burundi,,,,,,,,,,,,,,,
+,,赤道几内亚,赤道幾內亞,Equatorial Guinea,,,,,,,,,,,,,,,
+,,丹麦,丹麥,Denmark,,,,,,,,,,,,,,,
+,,德国,德國,Germany,,,,,,,,,,,,,,,
+,,迭戈加西亚,迭戈加西亞,Diego Garcia,,,,,,,,,,,,,,,
+,,东帝汶,東帝汶,East Timor,,,,,,,,,,,,,,,
+,,多哥,多哥,TOGO,,,,,,,,,,,,,,,
+,,多米尼克,多明尼克,Dominica,,,,,,,,,,,,,,,
+,,多明尼加共和国,多明尼加共和國,Dominican Republic,,,,,,,,,,,,,,,
+,,俄罗斯,俄羅斯,Russia,,,,,,,,,,,,,,,
+,,厄瓜多尔,厄瓜多,Ecuador,,,,,,,,,,,,,,,
+,,法国,法國,France,,,,,,,,,,,,,,,
+,,法罗群岛,法羅群島,faroe islands,,,,,,,,,,,,,,,
+,,法属波利尼西亚,法屬玻里尼西亞,French Polynesia,,,,,,,,,,,,,,,
+,,法属圭亚那,法屬圭亞那,French Guiana,,,,,,,,,,,,,,,
+,,菲律宾,菲律賓,Philippines,,,,,,,,,,,,,,,
+,,斐济,斐濟,Fiji,,,,,,,,,,,,,,,
+,,芬兰,芬蘭,Finland,,,,,,,,,,,,,,,
+,,福克兰群岛,福克蘭群島,Falkland Islands,,,,,,,,,,,,,,,
+,,冈比亚,甘比亞,Gambia,,,,,,,,,,,,,,,
+,,刚果,剛果,Congo,,,,,,,,,,,,,,,
+,,刚果金,剛果金,Democratic Republic of the Congo,,,,,,,,,,,,,,,
+,,哥伦比亚,哥倫比亞,Colombia,,,,,,,,,,,,,,,
+,,哥斯达黎加,哥斯大黎加,costa rica,,,,,,,,,,,,,,,
+,,格林纳达,格瑞那達,Greneda,,,,,,,,,,,,,,,
+,,格陵兰岛,格陵蘭島,Greenland,,,,,,,,,,,,,,,
+,,古巴,古巴,cuba,,,,,,,,,,,,,,,
+,,瓜德罗普岛,瓜德羅普島,Guadeloupe,,,,,,,,,,,,,,,
+,,关岛,關島,Guam,,,,,,,,,,,,,,,
+,,圭亚那,蓋亞那,Guyana,,,,,,,,,,,,,,,
+,,哈萨克斯坦,哈薩克,Kazakhstan,,,,,,,,,,,,,,,
+,,海地,海地,Haiti,,,,,,,,,,,,,,,
+,,韩国,韓國,South Korea,,,,,,,,,,,,,,,
+,,荷兰,荷蘭,Netherlands,,,,,,,,,,,,,,,
+,,荷属安的列斯群岛,荷屬安的列斯群島,Netherlands Antilles,,,,,,,,,,,,,,,
+,,黑山,蒙特內哥羅,Montenegro,,,,,,,,,,,,,,,
+,,洪都拉斯,宏都拉斯,Honduras,,,,,,,,,,,,,,,
+,,吉布提,吉布地,Djibouti,,,,,,,,,,,,,,,
+,,吉尔吉斯斯坦,吉爾吉斯斯坦,Kyrgyzstan,,,,,,,,,,,,,,,
+,,几内亚,幾內亞,Guinea,,,,,,,,,,,,,,,
+,,几内亚比绍,幾內亞比紹,Guinea-Bissau,,,,,,,,,,,,,,,
+,,加拿大,加拿大,Canada,,,,,,,,,,,,,,,
+,,加纳,迦納,Ghana,,,,,,,,,,,,,,,
+,,加蓬,加彭,Gabon,,,,,,,,,,,,,,,
+,,柬埔寨,柬埔寨,Cambodia,,,,,,,,,,,,,,,
+,,捷克共和国,捷克共和國,Czech Republic,,,,,,,,,,,,,,,
+,,津巴布韦,辛巴威,Zimbabwe,,,,,,,,,,,,,,,
+,,喀麦隆,喀麥隆,Cameroon,,,,,,,,,,,,,,,
+,,卡塔尔,卡達,Qatar,,,,,,,,,,,,,,,
+,,开曼群岛,開曼群島,Cayman Islands,,,,,,,,,,,,,,,
+,,科摩罗,葛摩,Comoros,,,,,,,,,,,,,,,
+,,科索沃,科索沃,Kosovo,,,,,,,,,,,,,,,
+,,科特迪瓦,科特迪瓦,Cote d'Ivoire,,,,,,,,,,,,,,,
+,,科威特,科威特,Kuwait,,,,,,,,,,,,,,,
+,,克罗地亚,克羅埃西亞,Croatia,,,,,,,,,,,,,,,
+,,肯尼亚,肯亞,Kenya,,,,,,,,,,,,,,,
+,,库克群岛,庫克群島,Island,,,,,,,,,,,,,,,
+,,拉脱维亚,拉脫維亞,Latvia,,,,,,,,,,,,,,,
+,,莱索托,賴索托,Lesotho,,,,,,,,,,,,,,,
+,,老挝,寮國,Laos,,,,,,,,,,,,,,,
+,,黎巴嫩,黎巴嫩,lebanon,,,,,,,,,,,,,,,
+,,立陶宛,立陶宛,Lithuania,,,,,,,,,,,,,,,
+,,利比里亚,賴比瑞亞,Liberia,,,,,,,,,,,,,,,
+,,利比亚,利比亞,Libya,,,,,,,,,,,,,,,
+,,列支敦士登,列支敦斯登,Liechtenstein,,,,,,,,,,,,,,,
+,,留尼旺,留尼旺,Reunion,,,,,,,,,,,,,,,
+,,卢森堡,盧森堡,Luxembourg,,,,,,,,,,,,,,,
+,,卢旺达,盧安達,Rwanda,,,,,,,,,,,,,,,
+,,罗马尼亚,羅馬尼亞,Romania,,,,,,,,,,,,,,,
+,,马达加斯加,馬達加斯加,madagascar,,,,,,,,,,,,,,,
+,,马尔代夫,馬爾地夫,Maldives,,,,,,,,,,,,,,,
+,,马耳他,馬爾他,malta,,,,,,,,,,,,,,,
+,,马拉维,馬拉威,Malawi,,,,,,,,,,,,,,,
+,,马来西亚,馬來西亞,Malaysia,,,,,,,,,,,,,,,
+,,马里,馬裡,Mali,,,,,,,,,,,,,,,
+,,马其顿,馬其頓,macedonia,,,,,,,,,,,,,,,
+,,马提尼克,馬提尼克,Martinique,,,,,,,,,,,,,,,
+,,毛里求斯,模里西斯,Mauritius,,,,,,,,,,,,,,,
+,,毛里塔尼亚,茅利塔尼亞,mauritania,,,,,,,,,,,,,,,
+,,美国萨摩亚,美國薩摩亞,American Samoa,,,,,,,,,,,,,,,
+,,美属维珍群岛,美屬維珍群島,U.S. Virgin Islands,,,,,,,,,,,,,,,
+,,蒙古,蒙古,Mongolia,,,,,,,,,,,,,,,
+,,蒙特塞拉特岛,蒙特塞拉特島,Montserrat Island,,,,,,,,,,,,,,,
+,,孟加拉国,孟加拉,Bangladesh,,,,,,,,,,,,,,,
+,,秘鲁,秘魯,Peru,,,,,,,,,,,,,,,
+,,缅甸,緬甸,Myanmar,,,,,,,,,,,,,,,
+,,摩尔多瓦,摩爾多瓦,Moldovan,,,,,,,,,,,,,,,
+,,摩洛哥,摩洛哥,Morocco,,,,,,,,,,,,,,,
+,,摩纳哥,摩納哥,Monaco,,,,,,,,,,,,,,,
+,,莫桑比克,莫三比克,Mozambique,,,,,,,,,,,,,,,
+,,墨西哥,墨西哥,Mexico,,,,,,,,,,,,,,,
+,,纳米比亚,納米比亞,Namibia,,,,,,,,,,,,,,,
+,,南非,南非,South Africa,,,,,,,,,,,,,,,
+,,南苏丹,南蘇丹,South Sudan,,,,,,,,,,,,,,,
+,,瑙鲁,諾魯,Nauru,,,,,,,,,,,,,,,
+,,尼加拉瓜,尼加拉瓜,Nicaragua,,,,,,,,,,,,,,,
+,,尼泊尔,尼泊爾,Nepal,,,,,,,,,,,,,,,
+,,尼日尔,尼日,Niger,,,,,,,,,,,,,,,
+,,尼日利亚,奈及利亞,Nigeria,,,,,,,,,,,,,,,
+,,挪威,挪威,Norway,,,,,,,,,,,,,,,
+,,诺福克岛,諾福克島,norfolk island,,,,,,,,,,,,,,,
+,,帕劳,帛琉,Palau,,,,,,,,,,,,,,,
+,,葡萄牙,葡萄牙,Portugal,,,,,,,,,,,,,,,
+,,乔丹,喬丹,Jordan,,,,,,,,,,,,,,,
+,,日本,日本,Japan,,,,,,,,,,,,,,,
+,,瑞典,瑞典,Sweden,,,,,,,,,,,,,,,
+,,瑞士,瑞士,Switzerland,,,,,,,,,,,,,,,
+,,萨尔瓦多,薩爾瓦多,El Salvador,,,,,,,,,,,,,,,
+,,萨摩亚,薩摩亞,Samoa,,,,,,,,,,,,,,,
+,,塞尔维亚,塞爾維亞,Serbia,,,,,,,,,,,,,,,
+,,塞拉利昂,獅子山,Sierra Leone,,,,,,,,,,,,,,,
+,,塞内加尔,塞內加爾,Senegal,,,,,,,,,,,,,,,
+,,塞浦路斯,賽普勒斯,Cyprus,,,,,,,,,,,,,,,
+,,塞舌尔,塞席爾,Seychelles,,,,,,,,,,,,,,,
+,,沙特阿拉伯,沙烏地阿拉伯,Saudi Arabia,,,,,,,,,,,,,,,
+,,圣彼埃尔和密克隆岛,聖彼埃爾和密克隆島,Saint Pierre and Miquelon,,,,,,,,,,,,,,,
+,,圣多美和普林西比,聖多美和普林西比,Sao Tome and Príncipe,,,,,,,,,,,,,,,
+,,圣基茨和尼维斯,聖克里斯多福及尼維斯,Saint Kitts and Nevis,,,,,,,,,,,,,,,
+,,圣露西亚,聖露西亞,saint lucia,,,,,,,,,,,,,,,
+,,圣马力诺,聖馬利諾,san marino,,,,,,,,,,,,,,,
+,,圣文森特和格林纳丁斯,聖文森及格瑞那丁,Saint Vincent and the Grenadines,,,,,,,,,,,,,,,
+,,斯里兰卡,斯里蘭卡,Sri Lanka,,,,,,,,,,,,,,,
+,,斯洛伐克,斯洛伐克,Slovakia,,,,,,,,,,,,,,,
+,,斯洛文尼亚,斯洛維尼亞,slovenia,,,,,,,,,,,,,,,
+,,斯威士兰,史瓦濟蘭,Swaziland,,,,,,,,,,,,,,,
+,,苏丹,蘇丹,Sudan,,,,,,,,,,,,,,,
+,,苏里南,蘇利南,Surinam,,,,,,,,,,,,,,,
+,,索马里,索馬利亞,somalia,,,,,,,,,,,,,,,
+,,塔吉克斯坦,塔吉克,Tajikistan,,,,,,,,,,,,,,,
+,,泰国,泰國,Thailand,,,,,,,,,,,,,,,
+,,坦桑尼亚,坦尚尼亞,Tanzania,,,,,,,,,,,,,,,
+,,汤加,東加,Tonga,,,,,,,,,,,,,,,
+,,特克斯和凯科斯群岛,特克斯和凱科斯群島,Turks and Caicos Islands,,,,,,,,,,,,,,,
+,,特立尼达和多巴哥,千里達及托巴哥,Trinidad and Tobago,,,,,,,,,,,,,,,
+,,突尼斯,突尼西亞,Tunisia,,,,,,,,,,,,,,,
+,,土耳其,土耳其,Türkiye,,,,,,,,,,,,,,,
+,,土库曼斯坦,土庫曼,Turkmenistan,,,,,,,,,,,,,,,
+,,瓦利斯和福图纳岛,瓦利斯和福圖納島,Wallis and Fortuna Islands,,,,,,,,,,,,,,,
+,,瓦努阿图,萬那杜,Vanuatu,,,,,,,,,,,,,,,
+,,危地马拉,瓜地馬拉,Guatemala,,,,,,,,,,,,,,,
+,,委内瑞拉,委內瑞拉,Venezuela,,,,,,,,,,,,,,,
+,,文莱达鲁萨兰国,汶萊達魯薩蘭國,Brunei Darussalam,,,,,,,,,,,,,,,
+,,乌干达,烏幹達,Uganda,,,,,,,,,,,,,,,
+,,乌克兰,烏克蘭,Ukraine,,,,,,,,,,,,,,,
+,,乌拉圭,烏拉圭,Uruguay,,,,,,,,,,,,,,,
+,,乌兹别克斯坦,烏茲別克,Uzbekistan,,,,,,,,,,,,,,,
+,,西班牙,西班牙,Spain,,,,,,,,,,,,,,,
+,,希腊,希臘,Greece,,,,,,,,,,,,,,,
+,,新加坡,新加坡,Singapore,,,,,,,,,,,,,,,
+,,新喀里多尼亚,新喀裡多尼亞,new caledonia,,,,,,,,,,,,,,,
+,,匈牙利,匈牙利,Hungary,,,,,,,,,,,,,,,
+,,叙利亚,敘利亞,Syria,,,,,,,,,,,,,,,
+,,牙买加,牙買加,jamaica,,,,,,,,,,,,,,,
+,,亚美尼亚,亞美尼亞,Armenia,,,,,,,,,,,,,,,
+,,也门,葉門,Yemen,,,,,,,,,,,,,,,
+,,伊拉克,伊拉克,Iraq,,,,,,,,,,,,,,,
+,,伊朗,伊朗,Iran,,,,,,,,,,,,,,,
+,,以色列,以色列,Israel,,,,,,,,,,,,,,,
+,,意大利,義大利,Italy,,,,,,,,,,,,,,,
+,,印度,印度,India,,,,,,,,,,,,,,,
+,,印度尼西亚,印尼,Indonesia,,,,,,,,,,,,,,,
+,,英国,英國,United Kingdom,,,,,,,,,,,,,,,
+,,英属维京群岛,英屬維京群島,british virgin islands,,,,,,,,,,,,,,,
+,,越南,越南,Vietnam,,,,,,,,,,,,,,,
+,,赞比亚,尚比亞,Zambia,,,,,,,,,,,,,,,
+,,乍得,查德,Chad,,,,,,,,,,,,,,,
+,,直布罗陀,直布羅陀,Gibraltar,,,,,,,,,,,,,,,
+,,智利,智利,Chile,,,,,,,,,,,,,,,
+,,中非共和国,中非共和國,central african republic,,,,,,,,,,,,,,,
+,,佐治亚州,喬治亞州,Georgia,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,

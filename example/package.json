@@ -12,7 +12,7 @@
     "input": "./assets/test.csv",
     "output": "./locales",
     "key": "KEY",
-    "namespace": "NAMESPACE"
+    "namespace": "NAME_SPACE"
   },
   "keywords": [],
   "author": "",

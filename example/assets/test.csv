@@ -1,4 +1,4 @@
-NAMESPACE,KEY,zh-tw,en,zh-cn
+NAME_SPACE,KEY,zh-tw,en,zh-cn
 card,SignIn1,手機號登入,Phone-number Login,手机号登录
 sign,SignIn2,用戶名/郵箱登入,Username/Email Login,用户名/邮箱登录
 user,SignIn3,請輸入手機號,Please enter phone number,请输入手机号
