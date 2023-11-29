@@ -30,12 +30,14 @@ $ i18_compiler
 | input | 指定csv文件的相对路径 |
 | output | 指定生成json文件的路径，如果文件夹不存在，则生成 |
 | key | 指定csv文件中的KEY字段 |
+| namespace | 指定csv文件中KEY字段的命名空间 |
 
 ## Example（package.json中）
 ```
 "i18_compiler": {
   "input": "./assets/xxx.csv",
   "output": "./locale/",
-  "key": "KEY"
+  "key": "KEY",
+  "namespace": "NAME_SPACE"
 }
 ```
