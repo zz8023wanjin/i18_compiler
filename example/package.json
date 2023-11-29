@@ -10,8 +10,9 @@
   },
   "i18_compiler": {
     "input": "./assets/test.csv",
-    "output": "./locale",
-    "key": "KEY"
+    "output": "./locales",
+    "key": "KEY",
+    "namespace": "NAMESPACE"
   },
   "keywords": [],
   "author": "",

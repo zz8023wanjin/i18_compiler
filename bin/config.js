@@ -5,6 +5,7 @@ const defaultConfig = {
   input: './assets/test.csv',
   output: './locale',
   key: 'KEY',
+  namespace: 'NAMESPACE',
 }
 
 const packageJsonData = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), './package.json'), 'utf8'))
