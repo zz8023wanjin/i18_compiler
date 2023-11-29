@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import chalk from 'chalk'
 
 class i18Translater {
   constructor(config) {
@@ -25,10 +26,10 @@ class i18Translater {
       }
     })
 
-    console.log('translates', this.translates)
+    // console.log('translates', this.translates)
   }
 
-  write() {
+  async write() {
     const output = path.resolve(process.cwd(), this.config.output)
 
     if (!fs.existsSync(output)) {
@@ -36,6 +37,8 @@ class i18Translater {
     }
 
     const keys = Object.keys(this.translates)
+    const writePromises = [] // 创建一个数组来存储所有的 writeFile Promise
+
     keys.forEach((key) => {
       const locale = this.translates[key]
 
@@ -54,6 +57,7 @@ class i18Translater {
       namespaces.forEach((namespace) => {
         const content = JSON.stringify(locale[namespace], null, 2)
         const filePath = `${localePath}/${namespace}.json`
+        writePromises.push(fs.promises.writeFile(filePath, content))
         fs.writeFile(filePath, content, (err) => {
           if (err) {
             console.log(err)
@@ -61,6 +65,14 @@ class i18Translater {
         })
       })
     })
+
+    // 等待所有的 writeFile Promise 完成
+    try {
+      await Promise.all(writePromises)
+      console.log(chalk.yellowBright('All files have been written successfully.'))
+    } catch (err) {
+      console.log(err)
+    }
   }
 }
 
