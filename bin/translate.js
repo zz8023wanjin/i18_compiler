@@ -1,5 +1,5 @@
 import fs from 'fs'
-import path from 'path'
+import path, { normalize } from 'path'
 import chalk from 'chalk'
 
 class i18Translater {
@@ -29,8 +29,8 @@ class i18Translater {
     // console.log('translates', this.translates)
   }
 
-  async write() {
-    const output = path.resolve(process.cwd(), this.config.output)
+  async genarate() {
+    const output = path.resolve(process.cwd(), normalize(this.config.output))
 
     if (!fs.existsSync(output)) {
       fs.mkdirSync(output)

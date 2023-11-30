@@ -1,4 +1,4 @@
-import path from 'path'
+import path, { normalize } from 'path'
 import fs from 'fs'
 
 const defaultConfig = {
@@ -8,8 +8,10 @@ const defaultConfig = {
   namespace: 'NAMESPACE',
 }
 
-const packageJsonData = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), './package.json'), 'utf8'))
+const PACKAGE_JSON_PATH = './package.json'
 
-const config = packageJsonData.i18_compiler || defaultConfig
+const packageJsonData = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), normalize(PACKAGE_JSON_PATH)), 'utf8'))
+
+const config = Object.assign({}, defaultConfig, packageJsonData.i18_compiler)
 
 export default config

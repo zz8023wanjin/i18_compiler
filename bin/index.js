@@ -19,5 +19,5 @@ fs.createReadStream(path.resolve(process.cwd(), config.input))
     translater.translate(data)
   })
   .on('end', () => {
-    translater.write()
+    translater.genarate()
   })
