@@ -3,11 +3,11 @@
 
 # Installation
 ```
-npm install i18_compiler
+npm install i18_compiler -D
 ```
 or 
 ```
-pnpm add i18_compiler
+pnpm add i18_compiler -D
 ```
 
 # Usage
